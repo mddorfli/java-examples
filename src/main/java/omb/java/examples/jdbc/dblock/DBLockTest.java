@@ -1,4 +1,4 @@
-package omb.java.examples.jdbc;
+package omb.java.examples.jdbc.dblock;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
